@@ -2,7 +2,7 @@
 /**
  * main - Print data type in C
  * Code by Richard
- * Return: 0
+ * Return: 0 on Success
  */
 int main(void)
 {
